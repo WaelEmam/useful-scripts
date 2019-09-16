@@ -10,7 +10,6 @@
  forwardable = true
  rdns = false
  default_realm = EXAMPLE.COM
- default_ccache_name = KEYRING:persistent:%{uid}
 
 [realms]
  EXAMPLE.COM = {
